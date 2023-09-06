@@ -1,6 +1,6 @@
-# Clon de Google usando solo HTML5 y CSS3
+# Clon de Google usando solo HTML5 y CSS3 💜
 
-## ÍNDICE
+## 🎯 ÍNDICE
 1. [Intro]()
 2. [¿Qué construí?]()
 3. [Objetivo del proyecto]()
@@ -29,4 +29,4 @@ Las tecnologías que usé son:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3
 
 ## 4. Link a Demo
-Aquí puedes ver mi [proyecto terminado](#)
+Aquí puedes ver mi proyecto terminado: [Google-clon]()
