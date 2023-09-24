@@ -1,10 +1,10 @@
 # Clon de Google usando solo HTML5 y CSS3 💜
 
 ## 🎯 ÍNDICE
-1. [Intro]()
-2. [¿Qué construí?]()
-3. [Objetivo del proyecto]()
-4. [Link a Demo]()
+1. [Intro](#1-intro)
+2. [¿Qué construí?](#2-¿qué-construí)
+3. [Objetivo del proyecto](#3-objetivo-del-proyecto)
+4. [Link a Demo](#4-link-a-demo)
 
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
